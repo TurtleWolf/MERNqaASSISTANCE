@@ -7,7 +7,7 @@
   
 1. [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [how to change the windows zoom level to -1 in visual studio....And how to save it after changing it](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447150 "You might want to look at changing the View Appearance , I think you can press the Control & Minus or Control & Plus keys at the same time")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
