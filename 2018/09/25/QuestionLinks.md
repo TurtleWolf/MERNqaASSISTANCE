@@ -1,4 +1,4 @@
-1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/t/lecture/10055132?start=0 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
+1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
 
 1. [how to remove an error of unable to write setting ...??? even though i have same command as that of lecture having comma at the end](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447724 "Timestamp 3:27 on this video sounds like exactly what you asked. In the lower right corner, he clicks on save and retry. Seven people have already bookmarked it, it'll be a grey dash until you set your own book mark over theirs.")  
 
