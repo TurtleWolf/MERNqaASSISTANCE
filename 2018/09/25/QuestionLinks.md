@@ -17,7 +17,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [Can you suggest a tutorial for Stripe integration and forgot password email functionality with this MERN project?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5151230 "I searched his Youtube Channel for Stripe, most of his videos were for php.. but this link might cover it.")  
   
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [I posted a question 2 days ago on the Q&A. How long should I expect to wait before getting a response?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5102452 "He's recently hired a few part timers to help catch up on the back log of questions, but I can't filter for your name. if you can post a link to the question or the lecture number you posted on, I'll take a look at it.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
