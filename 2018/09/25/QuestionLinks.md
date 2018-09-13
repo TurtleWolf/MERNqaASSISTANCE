@@ -19,7 +19,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
   
 1. [I posted a question 2 days ago on the Q&A. How long should I expect to wait before getting a response?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5102452 "He's recently hired a few part timers to help catch up on the back log of questions, but I can't filter for your name. if you can post a link to the question or the lecture number you posted on, I'll take a look at it.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [I'm making upload with multer and save it to under api folder but when ı try to reach it ım getting react page insted of the file. How can i fix that ?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5116294 "Screen shots and code please? The more info you can provide the more likely we are to diagnose it.. It almost sounds like a scoping problem. Imagine loading an <iframe >containing a whole website inside of an image tag is what it sounds like you're describing? So you need to find where to narrow your scope to just get the image and not the whole page around it?")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
