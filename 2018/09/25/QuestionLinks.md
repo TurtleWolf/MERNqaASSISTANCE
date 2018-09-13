@@ -1,3 +1,5 @@
+I'm  covering the questions in 1 section per each day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understandinng of the subject.
+
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
 
 1. [how to remove an error of unable to write setting ...??? even though i have same command as that of lecture having comma at the end](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447724 "Timestamp 3:27 on this video sounds like exactly what you asked. In the lower right corner, he clicks on save and retry. Seven people have already bookmarked it, it'll be a grey dash until you set your own book mark over theirs.")  
@@ -9,13 +11,11 @@
 
 1. [how to change the windows zoom level to -1 in visual studio....And how to save it after changing it](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447150 "You might want to look at changing the View Appearance , I think you can press the Control & Minus or Control & Plus keys at the same time")  
 
-I'm  covering the questions in 1 section per each day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understandinng of the subject.
-
 1. [Is it necessary to use constructor()? I think it is not, since we're using ES6.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5145304 "We're always free to experiment.. but don't get frustrated when your results may vary. It often means you're not finished with your changes. If you ever get too far off course you've always got his repos to get back on track. But you definitely learn more by trying to change the parts and pieces to match your own needs and styles.")  
 
 1. [A Router may have only one child element](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5144254 "It looks like you are passing an <app/> into <Router></Router>, remember React can only render a single element which should contain the others, try passing in just the <Router />  in which case you would probably want to restructure where the Router is loading the app.. not necessarily in another file, but you'll still need to get it in there, it's just that you can't feed one nested in the other straight to the rendered().")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Can you suggest a tutorial for Stripe integration and forgot password email functionality with this MERN project?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5151230 "I searched his Youtube Channel for Stripe, most of his videos were for php.. but this link might cover it.")  
   
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
