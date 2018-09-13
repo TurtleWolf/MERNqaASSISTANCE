@@ -9,7 +9,9 @@
 
 1. [how to change the windows zoom level to -1 in visual studio....And how to save it after changing it](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447150 "You might want to look at changing the View Appearance , I think you can press the Control & Minus or Control & Plus keys at the same time")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Is it necessary to use constructor()? I think it is not, since we're using ES6.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5145304 "We're always free to experiment.. but don't get frustrated when your results may vary. It often means you're not finished with your changes. If you ever get too far off course you've always got his repos to get back on track. But you definitely learn more by trying to change the parts and pieces to match your own needs and styles.")  
+
+I'm  covering the questions in 1 section per each day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understandinng of the subject.  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
