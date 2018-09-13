@@ -13,7 +13,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [Is it necessary to use constructor()? I think it is not, since we're using ES6.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5145304 "We're always free to experiment.. but don't get frustrated when your results may vary. It often means you're not finished with your changes. If you ever get too far off course you've always got his repos to get back on track. But you definitely learn more by trying to change the parts and pieces to match your own needs and styles.")  
 
-1. [A Router may have only one child element](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5144254 "It looks like you are passing an <app/> into <Router></Router>, remember React can only render a single element which should contain the others, try just passing in just the the <Router /> in.")  
+1. [A Router may have only one child element](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5144254 "It looks like you are passing an <app/> into <Router></Router>, remember React can only render a single element which should contain the others, try passing in just the <Router />")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
   
