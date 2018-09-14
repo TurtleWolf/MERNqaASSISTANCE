@@ -25,7 +25,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [how do i get vscode to recognize that i am working with react?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5158328 "React Snippets, in lecture 4, timestamp 5:28. He adds React-Native Snippets under extensions ")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Login/Logout issue](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5158302 "Are you using a local database or the sample? In the database section, several people had commented the sample base was down, so they had to make a different one. Are you keeping a GitHub repo? If so, send me the link and I'll try to take a closer look. No promises yet, other than I'll look.. also, notice the last line of your last image. "Open your developer's console", there may be further hints in there.")  
   
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
