@@ -23,7 +23,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [2 errors cannot set http header after they are sent. post.user is undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5155662 "I need a bit more to work from.. screenshots? Copy of 'your' code.. sometimes it's easy to overlook a typo. The error message is a good place to start, but debugging is a process, make sure to gather all the evidence. It's possible they are the same bug or one is causing the other.. or they could be completely coincidental. Make sure to look at all your tabs in postman. I didn't notice his switch to the header tab the first time through, I think I was listening, but looking at my other screen when he did it.  Or you may still be trying to GET instead of POST, I think could give that same error. Double check the urlencoded underneath.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [how do i get vscode to recognize that i am working with react?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5158328 "React Snippets, in lecture 4, timestamp 5:28. He adds React-Native Snippets under extensions ")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
   
