@@ -33,7 +33,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [Atom vs. Visual Studio Code?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3512936 "If you're more comfortable with Atom certainly keep using it.. He tries to use just about every tool that is available sooner or later just to stay flexible and know what's available.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [when saving text in console.log it only pops up in browser console for an instant and desappears, any suggestions?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4051452 "It's meant to be temporary.. much like the RAM vs Hard Drive. If you want to keep it, you'll need to write a function to log your output to a file. These are referred to as log files and are often analyzed for diagnosing bugs after a crash. Actually, I've never had to write this function, you'll find tools that are set up to log for you.. Oh, you can also just try scrolling up.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
   
