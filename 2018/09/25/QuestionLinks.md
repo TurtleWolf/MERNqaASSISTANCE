@@ -27,7 +27,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [Login/Logout issue](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5158302 "Are you using a local database or the sample? In the database section, several people had commented the sample base was down, so they had to make a different one. Are you keeping a GitHub repo? If so, send me the link and I'll try to take a closer look. No promises yet, other than I'll look.. also, notice the last line of your last image. ```Open your developer's console```, there may be further hints in there.")  
   
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Can't we reuse create-profile component to edit ?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161036 "yes, they are very similar, you probably could get away with restructuring them into the same file.. but he seems to be separating the logic for a reason. I think mainly to check if it exists already? He stresses the biggest difference around a minute in, adding componentDidMount(); If anything you'd be better off using Edit for both and not calling the extra function when Creating.. but that probably wouldn't illustrate the separation of concerns as well and could make it more confusing for many.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
