@@ -53,7 +53,7 @@ you're just missing the .Schema ")
 __proto__ is the actual object that is used in the lookup chain to resolve methods, etc. 
 prototype is the object that is used to build __proto__ when you create an object with new: ")  
   
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [loan calculator brackets disappearing on save](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5162320 "totalInterest.value  you are missing the second E in interEst")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
