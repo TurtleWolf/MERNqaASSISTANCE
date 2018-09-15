@@ -29,7 +29,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
   
 1. [Can't we reuse create-profile component to edit ?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161036 "yes, they are very similar, you probably could get away with restructuring them into the same file.. but he seems to be separating the logic for a reason. I think mainly to check if it exists already? He stresses the biggest difference around a minute in, adding componentDidMount(); If anything you'd be better off using Edit for both and not calling the extra function when Creating.. but that probably wouldn't illustrate the separation of concerns as well and could make it more confusing for many.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [error when refreshing](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4780782 "Yes, it will eventually make a difference. At this level, you can get away with it.. But as you get further along you'll notice that the address bar functions as a command line. / , /index & /index/ws could all tell your program to do different things. You stated that it only happens occasionally, look for a pattern for which addresses trigger this response.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
