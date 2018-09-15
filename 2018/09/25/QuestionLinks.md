@@ -31,7 +31,7 @@ I'm  covering the questions in 1 section per each day.. All the questions about 
 
 1. [error when refreshing](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4780782 "Yes, it will eventually make a difference. At this level, you can get away with it.. But as you get further along you'll notice that the address bar functions as a command line. / , /index & /index/ws could all tell your program to do different things. You stated that it only happens occasionally, look for a pattern for which addresses trigger this response.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Atom vs. Visual Studio Code?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3512936 "If you're more comfortable with Atom certainly keep using it.. He tries to use just about every tool that is available sooner or later just to stay flexible and know what's available.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
