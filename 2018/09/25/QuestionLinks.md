@@ -55,7 +55,7 @@ prototype is the object that is used to build __proto__ when you create an ob
   
 1. [loan calculator brackets disappearing on save](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5162320 "totalInterest.value  you are missing the second E in interEst")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Prototype Inheritance](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5161512 "Yes, I think you are correct.. according to this link, Using super in classes: it sounds like that is what it is intended for.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
