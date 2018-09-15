@@ -46,7 +46,8 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 1. [can we use object destructuring in place of if statement](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5163436 "Destructuring is just a shortcut for assigning the elements of the array to variables, you'd still need to evaluate the condition. ")  
 
 1. [Check the profile create api. In my repo](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5155662 "line 2, const Schema = mongoose.Schema;
-you have const Schema = mongoose; you're just missing the .Schema ")  
+you have const Schema = mongoose;
+you're just missing the .Schema ")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
   
