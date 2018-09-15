@@ -41,7 +41,7 @@ I'm  covering the questions 1 section per day.. All the questions about the data
   
 1. [newUser.save(..).catch(...).then(...) isn't a function lesson 10](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161802 "newUser.save(..).then(...).cath ? The console shows it in a different order than you're asking. You've inverted catch & then, also it looks like catch might be missing its second c.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Session 4 lesson 21, There are no profiles](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5124174 "line 11, profles is missing an i ")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
