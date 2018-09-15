@@ -74,3 +74,7 @@ prototype is the object that is used to build __proto__ when you create an ob
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+2 things I've noticed recurrent in the questions.
+1. a few people have decided your demo database must not be available anymore
+2. at least 2 have had to ask their freinds to install redux dev tools, so they could see it on their mobile phone
