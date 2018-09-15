@@ -37,7 +37,7 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 
 1. [InvalidTokenError: Invalid token specified: Cannot read property 'replace' of undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161396 "The invalid token is referring to your jason web token, it's undefined because you're losing the security credentials somewhere in the process. For me, it was as simple as overlooking to import axios, but your token is not making it through the process. It'd be like dropping your room key between the front desk of a hotel and the room you just checked into.")  
   
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [newUser.save(..).catch(...).then(...) isn't a function lesson 10](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161802 "newUser.save(..).then(...).cath ? The console shows it in a different order than you're asking. You've inverted catch & then, also it looks like catch might be missing its second c.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
