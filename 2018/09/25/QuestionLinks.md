@@ -49,7 +49,8 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 you have const Schema = mongoose;
 you're just missing the .Schema ")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [What is the difference between _proto_ and prototype?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5163720 "I found this link on github..
+__proto__ is the actual object that is used in the lookup chain to resolve methods, etc. prototype is the object that is used to build __proto__ when you create an object with new: ")  
   
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
