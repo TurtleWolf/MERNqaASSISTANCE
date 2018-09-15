@@ -35,7 +35,7 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 
 1. [when saving text in console.log it only pops up in browser console for an instant and desappears, any suggestions?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4051452 "It's meant to be temporary.. much like the RAM vs Hard Drive. If you want to keep it, you'll need to write a function to log your output to a file. These are referred to as log files and are often analyzed for diagnosing bugs after a crash. Actually, I've never had to write this function, you'll find tools that are set up to log for you.. Oh, you can also just try scrolling up. If you can't scroll up, there's always the possibility that it's stuck in an infinite loop and scrolling down faster than you can go up.. so that'd make it look like it's disappearing.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [InvalidTokenError: Invalid token specified: Cannot read property 'replace' of undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161396 "The invalid token is referring to your jason web token, it's undefined because you're losing the security credentials somewhere in the process. For me, it was as simple as overlooking to import axios, but your token is not making it through the process. It'd be like dropping your room key between the front desk of a hotel and the room you just checked into.")  
   
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
