@@ -59,8 +59,7 @@ prototype is the object that is used to build __proto__ when you create an ob
 
 1. [As a good practice, is it recommended to take advantage of VS's autosuggestions or type it out on your own or it doesn't matter? Thanks.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5165022 "yes, if they are accurate and what you were going to type anyway.. then you've got it in your understanding. Wearing your fingers out with carpal tunnel isn't going to make your program run any better and it might help avoid a typo.")  
 
-1. [
-difference between var let and char ?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5165242 "The main difference is the scope difference, while let can be only available inside the scope it's declared, like in for loop, var can be accessed outside the loop for example. ... This is unlike the var keyword, which defines a variable globally, or locally to an entire function regardless of block scope.  This link to StackOverFlow says 'char' is reserved for future usage.")  
+1. [difference between var let and char?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5165242 "The main difference is the scope difference, while let can be only available inside the scope it's declared, like in for loop, var can be accessed outside the loop for example. ... This is unlike the var keyword, which defines a variable globally, or locally to an entire function regardless of block scope.  This link to StackOverFlow says 'char' is reserved for future usage.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
