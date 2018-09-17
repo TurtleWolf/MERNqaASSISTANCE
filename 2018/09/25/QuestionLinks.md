@@ -112,7 +112,11 @@ I hope that helps, or at least makes it 'simpler' to understand")
 
 1. [live server opens same file every time](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5107354 "I looked it up and found this entry at VSCode, it sounds like you can do multiple work-spaces & or folders as of November last year, if your installation was before that, you may want to update it.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [can i declare const number = Number so i can type number instead of Number to make it easier](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3803414 "You can still do getElementById, you can even assign it to equal another variable..
+It's just best practice to start variables with a lower case.
+Link to W3 reference
+var x = document.getElementById("demo"); // Get the element with id="demo"
+x.style.color = "red"; // Change the color of the element ")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
