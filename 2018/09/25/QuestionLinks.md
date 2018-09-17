@@ -1,4 +1,8 @@
-I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understandinng of the subject.
+2 things I've noticed recurrent in the questions.
+1. a few people have decided your demo database must not be available anymore
+2. at least 2 have had to ask their friends to install redux dev tools, so they could see it on their mobile phone
+
+I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
 
@@ -65,6 +69,18 @@ prototype is the object that is used to build __proto__ when you create an ob
 
 1. [Calling Validator.isLength() crashed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5166736 "It sounds like you're passing an integer to a function that expects a string.. Which video are you on, so I can compare your code to his repo at that point?")  
   
+1. [difference bw == and ===?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5171206 "0 == zero // true
+0 === zero // false
+double equals is value.. triple equals is value + data type")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+  
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
@@ -75,6 +91,4 @@ prototype is the object that is used to build __proto__ when you create an ob
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
-2 things I've noticed recurrent in the questions.
-1. a few people have decided your demo database must not be available anymore
-2. at least 2 have had to ask their freinds to install redux dev tools, so they could see it on their mobile phone
+
