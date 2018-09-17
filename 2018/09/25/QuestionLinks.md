@@ -6,10 +6,10 @@ and for your own consideration.. the students question your terminology here and
 1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
 Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")
 
-9/11
+**_9/11_**  
 I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.
 
-9/17
+**_9/17_**  
 after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way.
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
