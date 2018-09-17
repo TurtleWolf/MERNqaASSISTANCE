@@ -73,7 +73,7 @@ prototype is the object that is used to build __proto__ when you create an ob
 0 === zero // false
 double equals is value.. triple equals is value + data type")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [In Project folder I created two files as explained. But after ! and tab, i cannot see any script. Do i need to install git? it was not explained in environment setup.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5016426 "He says Emmet comes installed with VSCode by default, but that's only been the last 2 versions. Perhaps you need to update your VSCode.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
