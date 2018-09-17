@@ -79,7 +79,11 @@ double equals is value.. triple equals is value + data type")
 
 1. [Using the console](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4343294 "Are you both using Microsoft Edge? Mine works fine in Chrome, but the console is a feature of the browser. If I try it in Edge, I get the same results as yours.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Identifier has already been declared](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4555238 "Leave out the 2nd let, then you can reassign it.
+let name = 'John Doe';
+console.log(name); // Outputs John Doe
+name = 'Jane Doe';
+console.log(name); // Outputs Jane Doe")  
   
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
