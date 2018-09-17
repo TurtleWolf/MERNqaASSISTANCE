@@ -83,7 +83,10 @@ double equals is value.. triple equals is value + data type")
 let name = 'John Doe';
 console.log(name); // Outputs John Doe
 name = 'Jane Doe';
-console.log(name); // Outputs Jane Doe")  
+console.log(name); // Outputs Jane Doe
+The biggest difference will be when he explains scope later..
+var is global, let is per the block it is called in
+This article on medium explains it well.")  
   
 1. [const ALLCAPS](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4442816 "best practices are subjective, capitalizing const particularly seems to be a matter of opinion.
 Link to StackOverflow Thread")  
