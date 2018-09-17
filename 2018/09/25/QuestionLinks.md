@@ -85,7 +85,8 @@ console.log(name); // Outputs John Doe
 name = 'Jane Doe';
 console.log(name); // Outputs Jane Doe")  
   
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [const ALLCAPS](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4442816 "best practices are subjective, capitalizing const particularly seems to be a matter of opinion.
+Link to StackOverflow Thread")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
