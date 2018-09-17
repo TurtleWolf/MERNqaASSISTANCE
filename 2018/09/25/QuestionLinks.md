@@ -104,7 +104,9 @@ Link to StackOverflow Thread")
 1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
 Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Explanation for type of null being object](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4798166 "Imagine we were filling 50 gallon drums with liquid, walking across the warehouse to see if a drum was empty is too much walking in a day, so we start sticking yellow tags on the barrels that are empty and just pull them off as they are filled. Then after doing that for several years, someone says we need to start putting the contents labels on those yellow tags so we know what's in them. So now we don't pull them off anymore, we just use binoculars to see if anything is written on the tag, Barrel of letters, a barrel of numbers.. etc
+So typeof is our binoculars, but when we zoom in on the yellow tag to see if it has anything written on it, we still see the yellow tag as an object. 
+I hope that helps, or at least makes it 'simpler' to understand")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
