@@ -118,7 +118,8 @@ Link to W3 reference
 var x = document.getElementById('demo'); // Get the element with id='demo'
 x.style.color = 'red'; // Change the color of the element ")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [type conversion section](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3287248 "A 'bag' of marbles is not a marble.., it's still just a bag.
+It's not converting the numbers, it's converting the array that contains the numbers.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
