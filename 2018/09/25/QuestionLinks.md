@@ -75,7 +75,7 @@ double equals is value.. triple equals is value + data type")
 
 1. [In Project folder I created two files as explained. But after ! and tab, i cannot see any script. Do i need to install git? it was not explained in environment setup.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5016426 "He says Emmet comes installed with VSCode by default.. but it looks like tab is no longer the default. Read this link for a more detailed update, but it sounds like you'd use down arrow to select from a list now.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [where is the most preferred way to place script tag and the code inside it? It works in head section, it works in body and also outside body](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3444738 "CSS should be in the head, JavaScript should be at the bottom of the body, unless the instructions specify other wise for a reason, such as 'modernizr'. Analytics says to put it at the top, but the inventor of HTML5 boilerplate says move it to the bottom to avoid having partial page loads counted.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
