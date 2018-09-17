@@ -108,7 +108,7 @@ Declaration is not to declare 'value' to a variable; it's to declare the type of
 So typeof is our binoculars, but when we zoom in on the yellow tag to see if it has anything written on it, we still see the yellow tag as an object. 
 I hope that helps, or at least makes it 'simpler' to understand")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Can you provide more info/example about Symbols or you talk about it later on?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3336816 "He elaborates on symbols further in video lecture number 88")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
