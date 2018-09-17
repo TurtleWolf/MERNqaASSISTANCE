@@ -2,6 +2,10 @@
 1. a few people have decided your demo database must not be available anymore
 2. at least 2 have had to ask their friends to install redux dev tools, so they could see it on their mobile phone
 
+and for your own consideration.. the students question your terminology here and appear to be correct..
+1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
+Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")
+
 I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
@@ -93,7 +97,8 @@ Link to StackOverflow Thread")
 
 1. [Const for objects and primitive types](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3673728 "Yes, in general, you have the right idea. The Const will always reference the same object, but you can modify what that object contains. I hope this thread adds to the clarification, link to StackOverflow thread")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
+Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
