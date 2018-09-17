@@ -77,7 +77,7 @@ double equals is value.. triple equals is value + data type")
 
 1. [where is the most preferred way to place script tag and the code inside it? It works in head section, it works in body and also outside body](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3444738 "CSS should be in the head, JavaScript should be at the bottom of the body, unless the instructions specify other wise for a reason, such as 'modernizr'. Analytics says to put it at the top, but the inventor of HTML5 boilerplate says move it to the bottom to avoid having partial page loads counted.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Using the console](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4343294 "Are you both using Microsoft Edge? Mine works fine in Chrome, but the console is a feature of the browser. If I try it in Edge, I get the same results as yours.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
   
