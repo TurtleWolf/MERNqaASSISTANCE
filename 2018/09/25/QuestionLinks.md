@@ -110,7 +110,7 @@ I hope that helps, or at least makes it 'simpler' to understand")
 
 1. [Can you provide more info/example about Symbols or you talk about it later on?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3336816 "He elaborates on symbols further in video lecture number 88")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [live server opens same file every time](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5107354 "I looked it up and found this thread on StackOverflow, it sounds like you can do multiple work-spaces & or folders as of July this year, if your installation was before that, you may want to update it.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
