@@ -123,9 +123,7 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [i cant get that to work either, and its really getting on my nerves since i know nothing about all this theme and i feel like its going to spare me a lot of trouble](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5016426 "Are you sure your installation is up to date? Or better yet, are you working in an unsaved file, like when you first open it and it's just called Untitled? Mine won't work either, until after I've saved it the first time.")  
 
-1. [I realised something I do not understand completely](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5028930 "Gokhan, Two things to consider,
-1 Your names are in the wrong order, you're trying to replace any occurrence of your name with his. Not finding your name in the string, it just returns it as it was.
-2 Even if it did change val to a string that includes your name, that's not what you are asking it to check. You're still asking if the original str has your name in it.")  
+1. [I realised something I do not understand completely](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5028930 "After assigning the new string to val, you're still asking if the original const str has your name in it.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
