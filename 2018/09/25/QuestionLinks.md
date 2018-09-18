@@ -125,7 +125,7 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [I realised something I do not understand completely](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5028930 "After assigning the new string to val, you're still asking if the original const str has your name in it.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [What are we actually saying with i < liEven.length ? in the below code?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5183794 "Yes, you are correct")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
