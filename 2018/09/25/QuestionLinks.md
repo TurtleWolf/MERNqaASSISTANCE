@@ -121,7 +121,7 @@ x.style.color = 'red'; // Change the color of the element ")
 1. [type conversion section](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3287248 "A 'bag' of marbles is not a marble.., it's still just a bag.
 It's not converting the numbers, it's converting the array that contains the numbers.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [i cant get that to work either, and its really getting on my nerves since i know nothing about all this theme and i feel like its going to spare me a lot of trouble](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5016426 "Are you sure your installation is up to date? Or better yet, are you working in an unsaved file, like when you first open it and it's just called Untitled? Mine won't work either, until after I've saved it the first time.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
