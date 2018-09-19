@@ -138,7 +138,7 @@ Take a break, stretch your legs. If it helps, you're not installing it to your M
 
 1. [Comment display without refresh](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5102642 "I'm getting lost in the post or posts but my gut feeling is you've either added an s where you shouldn't or missed one where you should have, I'd do a search for post and confirm if each one actually needs an s at that point or not")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Response time difference](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5189398 "I don't know what your system specs are compared to his.. but a full-time developer of his caliber is bound to have invested in a beast of a machine. It could easily be that his machine is a second faster than yours. It's also possible that making the student viewer wait another second didn't add anything to the video, so he may have just spliced/edited it down a bit.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
