@@ -143,7 +143,7 @@ If none of those catch it, look at where it's pointing on 88")
 1. [Response time difference](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5189398 "OK, I see what you're talking about now. That is when it is 'pretending to happen', In lecture 62, at the  3:12 mark he says it mimics the server.. you can adjust it to a much smaller or even larger number if you like, It just needed to be long enough that you'd notice it.
 You're still fetching from your local machine now, but later you'll be waiting on bandwidth and external servers. So you're just setting a variable to simulate that behavior.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Could you please allow me to download this course to view offline?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5190676 "Lower right-hand corner, there is a gear for video settings. In that list is an option for download")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
