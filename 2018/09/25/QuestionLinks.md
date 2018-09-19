@@ -133,7 +133,8 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [how to use gravator???](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4436100 "He gets to that in lecture 9 around the 3-minute mark. How far along are you? Did you ever get the VSCode editor to display in the size that you wanted?")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [lost](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5187520 "In this video, he's just installing jason server. Nothing is deleted.. are you getting conflicts with something? Or any error messages? Or just feeling overwhelmed?
+Take a break, stretch your legs. If it helps, you're not installing it to your Mac.. you're installing it into the app, and you can see a list of what's installed there by looking at your package.json. It's a manifest of what the app installs..")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
