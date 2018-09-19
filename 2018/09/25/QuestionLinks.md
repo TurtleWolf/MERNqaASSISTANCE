@@ -136,7 +136,7 @@ It's not converting the numbers, it's converting the array that contains the num
 1. [lost](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5187520 "In this video, he's just installing jason server. Nothing is deleted.. are you getting conflicts with something? Or any error messages? Or just feeling overwhelmed?
 Take a break, stretch your legs. If it helps, you're not installing it to your Mac.. you're installing it into the app, and you can see a list of what's installed there by looking at your package.json. It's a manifest of what the app installs..")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Comment display without refresh](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5102642 "I'm getting lost in the post or posts but my gut feeling is you've either added an s where you shouldn't or missed one where you should have, I'd do a search for post and confirm if each one actually needs an s at that point or not")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
