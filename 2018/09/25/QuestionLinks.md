@@ -127,7 +127,7 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [What are we actually saying with i < liEven.length ? in the below code?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5183794 "Yes, you are correct")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [hi, when I post to /api/users/register I get validation errors because name, password etc are required.  When I console.log(req.body) it returns an empty object. any ideas?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5187268 "I think I made the same mistake my first time, make sure you are switching from head to body tab.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
