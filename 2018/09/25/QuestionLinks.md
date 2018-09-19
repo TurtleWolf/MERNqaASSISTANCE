@@ -140,7 +140,8 @@ Take a break, stretch your legs. If it helps, you're not installing it to your M
 It's saying it's on line 9, which has post on it 5 times.. I'd start with the 2nd one
 If none of those catch it, look at where it's pointing on 88")  
 
-1. [Response time difference](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5189398 "I don't know what your system specs are compared to his.. but a full-time developer of his caliber is bound to have invested in a beast of a machine. It could easily be that his machine is a second faster than yours. It's also possible that making the student viewer wait another second didn't add anything to the video, so he may have just spliced/edited it down a bit.")  
+1. [Response time difference](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5189398 "OK, I see what you're talking about now. That is when it is "pretending to happen", In lecture 62, at the  3:12 mark he says it mimics the server.. you can adjust it to a much smaller or even larger number if you like, It just needed to be long enough that you'd notice it.
+You're still fetching from your local machine now, but later you'll be waiting on bandwidth and external servers. So you're just setting a variable to simulate that behavior.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
