@@ -1,6 +1,6 @@
 2 things I've noticed recurrent in the questions.
 1. a few people have decided your demo database must not be available anymore
-2. at least 2 have had to ask their friends to install redux dev tools, so they could see it on their mobile phone
+2. at least 2 have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, #19 & #48 were answered by refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
 
 and for your own consideration.. the students question your terminology here and appear to be correct..
 1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
@@ -129,7 +129,7 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [hi, when I post to /api/users/register I get validation errors because name, password etc are required.  When I console.log(req.body) it returns an empty object. any ideas?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5187268 "I think I made the same mistake my first time, make sure you are switching from head to body tab.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Ok thank you! Yeh I viewed the site and all but he got the redux message ... if I upgrade my heroku will it fix this?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5161396 "follow this link to the same question")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
@@ -139,4 +139,19 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
