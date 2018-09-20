@@ -156,7 +156,7 @@ You're still fetching from your local machine now, but later you'll be waiting o
 1. [Do we need to put semicolons at the end ?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4809776 "StackOverflow says:
 Do you recommend using semicolons after every statement in JavaScript?")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Operators](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4283052 "Comparison is coming up in video lecture number 15.. isn't Assignment what we've been doing since variable names and initialization in lecture 6?")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
