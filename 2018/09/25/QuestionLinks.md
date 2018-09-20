@@ -149,7 +149,7 @@ You're still fetching from your local machine now, but later you'll be waiting o
 
 1. [any difference between app.use(bodyParser.json()) and app.use(express.json())?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5196204 "follow this link to the same question on StackOverflow")  
 
-1. [I'm an inline-style link with title](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5196204 "Google's Homepage") 
+1. [How can I detect a new element in the array in order to display a div element with "Load more content" ?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5191830 "You'd want to compare the current length of the array to future lengths of the array.. so assign the current value to a counter before another one is added.. but you may be reinventing the wheel. The onComponentMount should keep track of that for you and even auto-load new content as it's posted.") 
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
