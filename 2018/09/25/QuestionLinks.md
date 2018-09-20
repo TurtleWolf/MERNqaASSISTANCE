@@ -153,9 +153,49 @@ You're still fetching from your local machine now, but later you'll be waiting o
 
 1. [Whenever we put something inside parentheses, is there any rule for when we use quotes and when we don't? From what I've notice, if we're working with an existing element, we put it in quotes, e.g. ('li')](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5191928 "The quotes designate it as a string. If it's in quotes the function will know it's a string.. if it's not, it's either an integer or more usually a variable name. It's just coincidence that all of your html elements are strings.")  
 
+1. [Do we need to put semicolons at the end ?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4809776 "StackOverflow says:
+Do you recommend using semicolons after every statement in JavaScript?")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
