@@ -160,7 +160,7 @@ Do you recommend using semicolons after every statement in JavaScript?")
 
 1. [Hi everyone, I have this issue right here, when i'm done creating the form](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5201642 "Follow that last line src/index.js:7 the 7 is the line number. If you still don't see it take another screenshot from there. The first sentence makes it sound like it's looking for the opening <   & closing /> tags also the first one listed is the line in the form it'self, on line 151, you probably need < form />.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [why was each input element wrapped in it's own div?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5201150 "The title of this episode refers to UI, user interface. Lecture #52 will alert validation errors. He'll reference those in the CSS to let the user know which field needs their attention.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
