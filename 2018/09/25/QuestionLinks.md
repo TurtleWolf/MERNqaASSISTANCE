@@ -172,7 +172,8 @@ Do you recommend using semicolons after every statement in JavaScript?")
 
 1. [Returning multiple values in the .find method ??](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4498898 "If you wanted to stay at the level of array methods, you'd want to look up something like this link to array methods which suggest you could try every instead of find")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [
+is it possible to sort the numbers in the array such that the last number becomes the second number, the penultimate number becomes the third number and so forth?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4308002 "Would .reduceRight() give you the result you're hoping for.. if not check out this link to array methods, you may need something like .reduceRight(.length -1)")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
