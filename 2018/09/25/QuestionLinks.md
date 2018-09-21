@@ -162,7 +162,7 @@ Do you recommend using semicolons after every statement in JavaScript?")
 
 1. [why was each input element wrapped in it's own div?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5201150 "The title of this episode refers to UI, user interface. Lecture #52 will alert validation errors. He'll reference those in the CSS to let the user know which field needs their attention.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [How can I detect a new element in the array in order to display a div element with "Load more content" ?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5191830 "The main reason I followed him to Udemy, is he gives away so much for free on YouTube and I knew I liked his teaching style, this link shows where I searched his YouTube channel for array, sometimes seeing it used differently helps. Even if they look advanced, just see how the array is referenced and used.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
