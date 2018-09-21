@@ -133,8 +133,10 @@ It's not converting the numbers, it's converting the array that contains the num
 
 1. [how to use gravator???](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4436100 "He gets to that in lecture 9 around the 3-minute mark. How far along are you? Did you ever get the VSCode editor to display in the size that you wanted?")  
 
-1. [lost](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5187520 "In this video, he's just installing jason server. Nothing is deleted.. are you getting conflicts with something? Or any error messages? Or just feeling overwhelmed?
-Take a break, stretch your legs. If it helps, you're not installing it to your Mac.. you're installing it into the app, and you can see a list of what's installed there by looking at your package.json. It's a manifest of what the app installs..")  
+1. [lost](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5187520 "I reread your question, you said terminal.  That took me a minute to figure out too.. You can run 2 terminals at once, or more.. each is it's own thread. Let one terminal run your local server.. the back end. Then open another terminal to run your app in.. the front end requests. Later you'll learn scripts to run them at the same time on one terminal.
+This link to GitBash is probably the extra terminal you're missing. 
+I went back to lecture three around a minute in, he warns there's more to install for the last project. NPM comes with Node.JS
+Yeah, first 2 minutes of video 111, he says he's already installed Node.JS and GitBash and then the Babel WebPack. He'll have videos on his youtube channel free for everyone. If you've never installed Node Before, people do complete courses on just that, it is a huge bite to gloss over.. But this is the graduating project, this is the final boss of the game, you are leveling up.")  
 
 1. [Comment display without refresh](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5102642 "I'm getting lost in the post or posts but my gut feeling is you've either added an s where you shouldn't or missed one where you should have, I'd do a search for post and confirm if each one actually needs an s at that point or not
 It's saying it's on line 9, which has post on it 5 times.. I'd start with the 2nd one
