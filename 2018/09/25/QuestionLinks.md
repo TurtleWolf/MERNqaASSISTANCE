@@ -177,7 +177,7 @@ Do you recommend using semicolons after every statement in JavaScript?")
 1. [Wouldn't it be "val = numbers.find(over50());" ? Thanks](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3879830 "at an abstract level, a function is a variable..
 on line 53 when he initializes the function under50, that's the declaration of a new variable, that variable's value is equal to calling the function it just named.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Thank you. I saw that example, I just wanna to understand the values returned it's true or false? 0 or 1?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3282864 "It's a fork in the logic under the hood, it's a Boolean checking the condition to know which direction the sort goes in")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
