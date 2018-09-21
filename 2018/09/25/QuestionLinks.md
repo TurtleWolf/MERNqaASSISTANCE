@@ -179,7 +179,7 @@ on line 53 when he initializes the function under50, that's the declaration of a
 
 1. [Thank you. I saw that example, I just wanna to understand the values returned it's true or false? 0 or 1?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3282864 "It's a fork in the logic under the hood, it's a Boolean checking the condition to know which direction the sort goes in")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Conceptual Mongoose question](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5207022 "the fact that your getting a response back sounds positive, can you post an image of the bunch methods and objects. It has to be coming from the database, doesn't it?")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
