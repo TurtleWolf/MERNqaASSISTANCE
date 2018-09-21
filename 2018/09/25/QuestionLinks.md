@@ -166,7 +166,7 @@ Do you recommend using semicolons after every statement in JavaScript?")
 
 1. [I was wondering if we could have some more exercises to get us doing the early stuff for ourselves? I think it's more likely to stick in the mind if we have to solve problems involving (e.g.) the String processing stuff in the earlier lectures, or the template strings.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3888470 "I was looking for array on his channel and found some cardio by coincidence, so I posted this link for you.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Only login and registration content is working. profile and posts aren't  working getting unauthorised in postman.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5198382 "it looks like you only have  1 entry under headers, I thought there should be 3")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
