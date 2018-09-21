@@ -168,7 +168,7 @@ Do you recommend using semicolons after every statement in JavaScript?")
 
 1. [Only login and registration content is working. profile and posts aren't  working getting unauthorised in postman.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5198382 "it looks like you only have  1 entry under headers, I thought there should be 3")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Hi,Could someone please explain the find function to me. what is happening? With numbers.find(under50); , shouldn't there be something passed to under50?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5105892 "what you're seeing is an example of scope, numbers.find(under50); what's being fed into it is the variable under50 which is a reference to the function on line 53 above it. So what is really being fed into it is num which retrieves its value from numbers (the original array) still in front of the . period mark.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
