@@ -192,7 +192,7 @@ link to local Node & the World")
 
 1. [Why both User and Profile model?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5210670 "I tried that too.. it gets messy fast, it's more organized to follow his separation of concerns. Other than making a reference to the other, they model different data.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Anyone care to explain the .sort function ?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5214852 "x & y are variables that designate sorting order, you can change them to a & b or a & z.  It's just an indication of which way you'd like it to go. You can use y & x, but then it'd be inverted.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
