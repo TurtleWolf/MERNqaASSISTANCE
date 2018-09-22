@@ -186,7 +186,7 @@ link to local Node & the World")
 
 1. [cannot read property of undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5210542 "Let's start with how to debug. Don't assume we know anything about your situation. What video are you on? Screen shots of what is undefined? What property are you expecting it to define? The repo is a good start, but we need to know what you're actually stuck on. I see 3 files added 10 hours ago pertaining to add a singer, but I don't know what property it's looking for.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Could you please help me to download videos to see offline?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5210886 "link to Watch this clip It's the gear, in the lower right hand corner")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
