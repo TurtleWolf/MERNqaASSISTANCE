@@ -190,7 +190,7 @@ link to local Node & the World")
 
 1. [Hello Brad, I am having syntax error in line 25. But I mean my code are exact the same as yours. I tried to run it on different text editors but I am having the same error. On V studio](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5212242 "I assume you're still setting let min on line 11, it says line 25 column 20 which puts you on the equals sign, that would suggest it has to do with the value assignment.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Why both User and Profile model?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5210670 "I tried that too.. it gets messy fast, it's more organized to follow his separation of concerns. Other than making a reference to the other, they model different data.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
