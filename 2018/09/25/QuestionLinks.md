@@ -181,7 +181,8 @@ on line 53 when he initializes the function under50, that's the declaration of a
 
 1. [Conceptual Mongoose question](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5207022 "the fact that your getting a response back sounds positive, can you post an image of the bunch methods and objects. It has to be coming from the database, doesn't it?")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Deployment using Local (My Own) Server](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5212094 "Everything I'm finding is just exposing Node. I don't think adding React is any different than it'd normally be. Once the Node is exposed wouldn't they just reach what ever is loaded on the server. Where are you anticipating to run into issues?
+link to local Node & the World")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
