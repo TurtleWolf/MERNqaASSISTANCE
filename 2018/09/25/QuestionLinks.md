@@ -194,7 +194,7 @@ link to local Node & the World")
 
 1. [Anyone care to explain the .sort function ?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5214852 "x & y are variables that designate sorting order, you can change them to a & b or a & z.  It's just an indication of which way you'd like it to go. You can use y & x, but then it'd be inverted.")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [At this point in the course, I got a fairly good understanding why Brad's using certain methods and functions BUT if I am to build something like that from scratch, I would have no idea what to do, tbh.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5218844 "I made a lot of progress at FreeCodeCamp and he has material on his YouTube channel, I spotted some 'cardio' videos on there yesterday try this link for extra exercises")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
