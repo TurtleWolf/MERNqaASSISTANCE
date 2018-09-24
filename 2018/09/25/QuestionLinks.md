@@ -229,3 +229,16 @@ console.log(val)")
 
 1. [TypeError: Cannot read property 'email' of undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5045236 "That first line, ..\routes\api\users.js:18:34 
 I'd start there, that is line 18 and column 34, just count the character or spaces in, unfortunately, your screenshot starts at line 19, scroll up a bit and shoot it again.") 
+
+[Math.random function](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5224172 "Yes, that should work.. it's just that by using floor you have a visual reference to the expected range, which can get lost in a larger block with more numbers to calculate. If you wanted t use ceil, I'd still use your expected max for the number but follow it with a minus instead
+val=Math.ceil(Math.random()*20-1) ")  
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
