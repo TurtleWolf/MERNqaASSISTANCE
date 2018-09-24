@@ -1,9 +1,8 @@
-1. several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, question #3 #19 & #48 were answered by refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
-
-in trying to decide if 18 & 19 were the same question or just a wrong link and found this one which I now need to tell all the others to check. I think they are all one big connected issue from different angles.  
+several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, question #3 #19 & #48, refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
+I think they are all the same issue from different angles.  
 https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5025872
 
-### critics
+### critiques
 
 1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
 Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")  
