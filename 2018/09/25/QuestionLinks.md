@@ -234,7 +234,7 @@ I'd start there, that is line 18 and column 34, just count the character or spac
 1. [Math.random function](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5224172 "Yes, that should work.. it's just that by using floor you have a visual reference to the expected range, which can get lost in a larger block with more numbers to calculate. If you wanted to use ceil, I'd still use your expected max for the number but follow it with a minus instead
 val=Math.ceil(Math.random()*20-1) ")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [Lecture 15 How display screen](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3898176 "He's running live server and then opening Chrome's Dev Inspector to the Console Tab Would you like to post a screenshot of what your screen looks like?")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
