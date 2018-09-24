@@ -11,13 +11,6 @@ Declaration is not to declare 'value' to a variable; it's to declare the type of
 
 1. In the section about MLab for MERN a few people have decided your demo database must not be available anymore
 
-**_9/11_**  
-I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.
-
-**_9/17_**  
-after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way.
-
-
 ### highlighting interactions #4 & #11 as unresolved  
 
 #4 [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")  
@@ -26,6 +19,8 @@ after the first week, I've switched strategies.. Rather than reviewing MERN one 
 
 
 ### I covered 80 interactions during this 2 week period  
+after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way.  
+I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.  
 fyi my paypal is different  
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
