@@ -228,5 +228,5 @@ getBirthYear: () => {
 val = person.getBirthYear()
 console.log(val)")  
 
-1. [How to implement a drag and drop feature?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5221642 "I've been trying to work my way back to this link on Drag & Drop,
-but it sounds like you'll also want to add some sort of mark down editor as well.") 
+1. [TypeError: Cannot read property 'email' of undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5045236 "That first line, ..\routes\api\users.js:18:34 
+I'd start there, that is line 18 and column 34, just count the character or spaces in, unfortunately, your screenshot starts at line 19, scroll up a bit and shoot it again.") 
