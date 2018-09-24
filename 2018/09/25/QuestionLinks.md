@@ -10,6 +10,7 @@ Declaration is not to declare 'value' to a variable; it's to declare the type of
 1. [getTime() returns milliseconds, not seconds from 1970](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4201682 "peer review wants an update for an inaccurate statement:")  
 
 https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/t/lecture/8757212?start=0
+they are already confused my the strings being zero based and then after showing them it's Thursday at 2&half minutes yoiu say it's Wendsday, which adds to their confusion.
 
 1. In the section about MLab for MERN a few people have decided your demo database must not be available anymore
 
