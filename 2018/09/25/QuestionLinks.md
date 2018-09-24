@@ -1,12 +1,16 @@
-1. a few people have decided your demo database must not be available anymore
-2. at least 2 have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, question #3 #19 & #48 were answered by refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
+1. several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, question #3 #19 & #48 were answered by refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
 
 in trying to decide if 18 & 19 were the same question or just a wrong link and found this one which I now need to tell all the others to check. I think they are all one big connected issue from different angles.  
 https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5025872
 
-and for your own consideration.. the students question your terminology here and appear to be correct..
+### critics
+
 1. [Initializing vs. Declaring](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4630724 "I looked it up, you would appear to be correct,
-Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")
+Declaration is not to declare 'value' to a variable; it's to declare the type of the variable. Assignment is simply the storing of a value to a variable. Initialization is the assignment of a value to a variable at the time of declaration.")  
+
+1. [getTime() returns milliseconds, not seconds from 1970](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4201682 "peer review wants an update for an inaccurate statement:")  
+
+1. In the section about MLab for MERN a few people have decided your demo database must not be available anymore
 
 **_9/11_**  
 I'm  covering the questions 1 section per day.. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.
