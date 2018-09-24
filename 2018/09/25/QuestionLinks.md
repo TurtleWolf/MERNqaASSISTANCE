@@ -219,4 +219,11 @@ default:
   }//end of switch
 }//end of export")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [getBirthYear with Arrow Function returns NaN](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5222788 "You'll need another bracket after the function to close the object.
+age: 30, 
+getBirthYear: () => {
+        return 2018 - this.age
+        }//closing bracket of function
+    }//closing bracket of object literal
+val = person.getBirthYear()
+console.log(val)")  
