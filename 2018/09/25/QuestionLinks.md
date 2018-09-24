@@ -236,7 +236,14 @@ val=Math.ceil(Math.random()*20-1) ")
 
 1. [Lecture 15 How display screen](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3898176 "He's running live server and then opening Chrome's Dev Inspector to the Console Tab Would you like to post a screenshot of what your screen looks like?")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [comparing a string '100' greater than a number 90, is it logical?](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4024334 "The spec says it '..will call the valueOf() function on each operand before a comparison is made.'
+const id = 100;
+// GREATER OR LESS THAN
+if (id <= '99') {
+  console.log('CORRECT');
+} else {
+  console.log('INCORRECT');
+} //returns incorrect")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
