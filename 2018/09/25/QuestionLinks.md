@@ -16,15 +16,15 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way.
 
 
-**_9/23_** 
-approaching the end of my first 2 weeks.. I thought I should high light those that may feel unresolved  
+### end of first 2 weeks, highlighting interactions #4 & #11 as unresolved  
 
 #4 [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")  
 
 #11 [2 errors cannot set http header after they are sent. post.user is undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5155662 "I need a bit more to work from.. screenshots? Copy of 'your' code.. sometimes it's easy to overlook a typo. The error message is a good place to start, but debugging is a process, make sure to gather all the evidence. It's possible they are the same bug or one is causing the other.. or they could be completely coincidental. Make sure to look at all your tabs in postman. I didn't notice his switch to the header tab the first time through, I think I was listening, but looking at my other screen when he did it.  Or you may still be trying to GET instead of POST, I think could give that same error. Double check the urlencoded underneath.")  
 
 
-start standard resolution.. fyi my paypal is different  
+### start standard resolution.. I covered 80 interactions this week  
+fyi my paypal is different  
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
 
