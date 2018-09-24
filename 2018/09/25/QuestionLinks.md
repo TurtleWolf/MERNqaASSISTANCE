@@ -196,7 +196,11 @@ link to local Node & the World")
 
 1. [At this point in the course, I got a fairly good understanding why Brad's using certain methods and functions BUT if I am to build something like that from scratch, I would have no idea what to do, tbh.](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5218844 "I made a lot of progress at FreeCodeCamp and he has material on his YouTube channel, I spotted some 'cardio' videos on there yesterday try this link for extra exercises")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [error](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5222390 "Did you miss the closing bracket?
+default:
+      return state;
+  }//end of switch
+}//end of export")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
