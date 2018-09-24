@@ -12,6 +12,15 @@ I'm  covering the questions 1 section per day.. All the questions about the data
 **_9/17_**  
 after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way.
 
+
+**_9/23_** 
+approaching the end of my first 2 weeks.. I thought I should high light those that may feel unresolved  
+#4
+
+1. [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")   
+
+start standard resolution.. fyi my paypal is different  
+
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
 
 1. [how to remove an error of unable to write setting ...??? even though i have same command as that of lecture having comma at the end](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/4447724 "Timestamp 3:27 on this video sounds like exactly what you asked. In the lower right corner, he clicks on save and retry. Seven people have already bookmarked it, it'll be a grey dash until you set your own book mark over theirs.")  
