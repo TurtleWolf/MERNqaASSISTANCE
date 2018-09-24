@@ -15,9 +15,8 @@ after the first week, I've switched strategies.. Rather than reviewing MERN one 
 
 **_9/23_** 
 approaching the end of my first 2 weeks.. I thought I should high light those that may feel unresolved  
-#4
 
-1. [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")   
+4. [Hey I think I've succeeded to deploy my react app to Heroku according to this picture below, but somehow when I open the app it just shows a "Not Found" text and an error message Failed to load resource: the server responded with a status of 404 (Not Found)](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5122548 "It sounds like it's building the app, but skipping one of the resources it needs.. (possibly the database connection or as simple as an image tag, any clue to what resource it's looking for?).")   
 
 start standard resolution.. fyi my paypal is different  
 
