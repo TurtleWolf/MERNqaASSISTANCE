@@ -245,7 +245,7 @@ if (id <= '99') {
   console.log('INCORRECT');
 } //returns incorrect")  
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+1. [In the first example, inside the brackets of switch we put the variable i.e, color but in the second example we put the new Date object. Can't the day variable be used instead ? i just got confused](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5224088 "The day variable is declared but not initialized so it would return undefined, at the very least you'd have to give it a value between 0 & 6 first.")  
 
 1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
 
