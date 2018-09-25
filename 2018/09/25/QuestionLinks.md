@@ -1,6 +1,19 @@
-several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, question #3 #19 & #48, refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
-I think they are all the same issue from different angles.  
-https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5025872
+Several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, questions #3 #19 & #48, I've been refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
+I think they are all the same issue from different angles.
+[I'm assuming you can open the app only on chrome? If this is the case its because when we setup the 'developer' tools when creating the redux store, we blindly assume every browser will have the redux dev tool extension installed.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5025872 "const whichCompose = () => {
+  if (window.navigator.userAgent.includes('Chrome')) {
+    compose(
+      applyMiddleware(...middleware),
+      // Implements the Chrome redux tools extension
+      window.__REDUX_DEVTOOLS_EXTENSION__ &&
+        window.__REDUX_DEVTOOLS_EXTENSION__()
+    );
+  } else {
+    compose(applyMiddleware(...middleware));
+  }
+}; 
+const store = createStore(reducers, {}, whichCompose());")  
+
 
 ### critiques
 
@@ -245,7 +258,3 @@ if (id <= '99') {
 } //returns incorrect")  
 
 1. [In the first example, inside the brackets of switch we put the variable i.e, color but in the second example we put the new Date object. Can't the day variable be used instead ? i just got confused](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/5224088 "The day variable is declared but not initialized so it would return undefined, at the very least you'd have to give it a value between 0 & 6 first.")  
-
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
-
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
