@@ -1,5 +1,6 @@
-Several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, questions #3 #19 & #48, I've been refering them to [Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
-I think they are all the same issue from different angles.
+Several folks have had to ask their friends to install redux dev tools, so they could see it on their mobile phone, questions #3 #19 & #48, I've been refering them to  
+[Deployed App doesn't work on mobile and other browsers - Redux DevTool Fixed](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5046212 "Please notice that if you deploy your app on Heroku it will work only on your browser (doesn't work on mobile and other computers/browsers).")  
+I think they are all the same issue from different angles.  
 [I'm assuming you can open the app only on chrome? If this is the case its because when we setup the 'developer' tools when creating the redux store, we blindly assume every browser will have the redux dev tool extension installed.](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5025872 "const whichCompose = () => {
   if (window.navigator.userAgent.includes('Chrome')) {
     compose(
@@ -22,10 +23,7 @@ Declaration is not to declare 'value' to a variable; it's to declare the type of
 
 1. [getTime() returns milliseconds, not seconds from 1970](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/4201682 "peer review wants an update for an inaccurate statement:")  
 
-https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/t/lecture/8757212?start=0  
-they are already confused my the strings being zero based and then after showing them it's Thursday at 2&half minutes yoiu say it's Wendsday, which adds to their confusion.
-
-1. In the section about MLab for MERN a few people have decided your demo database must not be available anymore
+1. [So Brad did this lecture on a Thursday, but thought it was Wednesday :)](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/questions/3736594 "They are already confused by the strings being zero based and then after showing them it's Thursday at 2&half minutes you say it's Wendsday, which adds to their confusion.")  
 
 ### highlighting interactions #4 & #11 as unresolved  
 
@@ -34,8 +32,9 @@ they are already confused my the strings being zero based and then after showing
 #11 [2 errors cannot set http header after they are sent. post.user is undefined](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5155662 "I need a bit more to work from.. screenshots? Copy of 'your' code.. sometimes it's easy to overlook a typo. The error message is a good place to start, but debugging is a process, make sure to gather all the evidence. It's possible they are the same bug or one is causing the other.. or they could be completely coincidental. Make sure to look at all your tabs in postman. I didn't notice his switch to the header tab the first time through, I think I was listening, but looking at my other screen when he did it.  Or you may still be trying to GET instead of POST, I think could give that same error. Double check the urlencoded underneath.")  
 
 
-### I covered 80 interactions during this 2 week period  
-after the first week, I've switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.  
+### I covered 84 interactions during this 2 week period  
+after the first week, I switched strategies.. Rather than reviewing MERN one section per a day, I've added Modern Javascript From the Beginning. I'm keeping an eye on new questions in both courses and updating older questions as I get to that section. I still intend to repeat the MERN course, but I had a gut feeling I'd be more useful to everyone involved this way. All the questions about the database had responses, I'm making it a point to read through them each anyways.. just in case I have something to add and to gather a more comprehensive understanding of the course and particular student's progress through it. On that note, I'm also watching the new questions to field them at a customer service level. I may not always know the most technical aspects, but it helps to let them know they are not screaming into a void, and it helps me push my own understanding of the subject.  
+The advanced students seem to appreciate your dense and effecient methods. The beginners are feeling mislead by the word 'beginning'. They want more quizes to unlock the next section and challenges like your 'cardio' videos to see if they understand what you're talking about. You might consider stretching the fundamentals section into it's own course and renaming the 'beginning'.  
 fyi my paypal is different  
 
 1. [What color theme is being used for this video?](https://www.udemy.com/mern-stack-front-to-back/learn/v4/questions/5027562 "Looks like Dark (default) or maybe Dark +, I don't see a difference when I change between them.")  
